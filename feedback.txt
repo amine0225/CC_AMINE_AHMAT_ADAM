@@ -1,0 +1,3 @@
+Le cours a été bien structuré et a couvert de manière complète 
+les concepts essentiels relatifs à l'introduction de Git. Les exemples pratiques ont été 
+particulièrement utiles pour comprendre les notions théoriques. 
