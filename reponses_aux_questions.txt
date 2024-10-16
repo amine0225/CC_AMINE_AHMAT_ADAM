@@ -1,0 +1,12 @@
+QUESTIONS DE COURS.
+2. Qu'est ce que Git et à quoi sert-il ? 
+Réponse : Git est un système de gestion de versions.
+Il permet de suivre et contrôler les changement dans notre code.
+
+3. Comparez Git et GitHub.
+Réponse : Git est un logiciel de contrôle de versions local, tannique GitHub est une plateforme web qui intègre les 
+Fonctionnalités de contrôleur de versions de Git
+
+4. Donnez les deux espaces dans lesquels peuvent se trouver les fichiers avant de réaliser un commit.
+Réponse : 1.) La zone de travail (working directory)
+	      2.) La zone de staging area
